@@ -3,7 +3,7 @@
 Programing
 - 🌱 I’m currently learning 
 C++
-- 📫 How to reach me 
+- 📫  
   I’m Avalable Most Of The Time On Discord Name:papucsevoo
   
 <!---
