@@ -3,8 +3,7 @@
 Programing
 - 🌱 I’m currently learning 
 C++
-- 📫  
-  I’m Avalable Most Of The Time On Discord Name:papucsevoo
+- 📫 I’m Avalable Most Of The Time On Discord Name:papucsevoo
   
 <!---
 papucsevp/papucsevp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
